@@ -10,7 +10,6 @@
 
 #include <Wire.h>
 #include <Arduino.h>
-#include <Sodaq_wdt.h>
 #include "Sodaq_nbIOT.h"
 #include "Sodaq_HTS221.h"
 
